@@ -1,0 +1,2 @@
+# wikijs
+internal wiki
